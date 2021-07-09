@@ -1,0 +1,4 @@
+stock,taxa,variable,year,mean,sd,lower,upper,status
+Alosa.pontica,Alosa pontica,b_div_bmsy,2018,0.496826673681422,0.228352741454258,0.346205775076426,0.714149289185219,overfished
+Clupeonella.cultriventris,Clupeonella cultriventris,b_div_bmsy,2018,0.625282475124964,0.182240855861056,0.453870167999696,0.817070641554589,overfished
+Alosa.spp,Alosa spp,b_div_bmsy,2018,0.767705148240885,0.220944680673848,0.541509806489526,1.10067322558166,overfished
